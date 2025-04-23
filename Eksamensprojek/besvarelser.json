@@ -1,0 +1,44 @@
+[
+    {
+        "S\u00f8vn": "5-6 timer",
+        "Sk\u00e6rmtid": "1-2 timer",
+        "Skriftlig pr\u00e6station": "Middel",
+        "Mundtlig pr\u00e6station": "Godt",
+        "Mest almindelige karakter": "4"
+    },
+    {
+        "S\u00f8vn": "Mere end 8 timer",
+        "Sk\u00e6rmtid": "Under 30 min",
+        "Skriftlig pr\u00e6station": "Meget godt",
+        "Mundtlig pr\u00e6station": "Meget godt",
+        "Mest almindelige karakter": "10"
+    },
+    {
+        "S\u00f8vn": "Mere end 8 timer",
+        "Sk\u00e6rmtid": "30-60 min",
+        "Skriftlig pr\u00e6station": "Godt",
+        "Mundtlig pr\u00e6station": "Middel",
+        "Mest almindelige karakter": "7"
+    },
+    {
+        "S\u00f8vn": "7-8 timer",
+        "Sk\u00e6rmtid": "30-60 min",
+        "Skriftlig pr\u00e6station": "Meget godt",
+        "Mundtlig pr\u00e6station": "Meget godt",
+        "Mest almindelige karakter": "12"
+    },
+    {
+        "S\u00f8vn": "Under 5 timer",
+        "Sk\u00e6rmtid": "Mere end 2 timer",
+        "Skriftlig pr\u00e6station": "D\u00e5rligt",
+        "Mundtlig pr\u00e6station": "Middel",
+        "Mest almindelige karakter": "02"
+    },
+    {
+        "S\u00f8vn": "7-8 timer",
+        "Sk\u00e6rmtid": "30-60 min",
+        "Skriftlig pr\u00e6station": "Godt",
+        "Mundtlig pr\u00e6station": "Godt",
+        "Mest almindelige karakter": "4"
+    }
+]
